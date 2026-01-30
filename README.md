@@ -29,6 +29,32 @@ Try it out:
 
 ## ✨ Features
 
+## 🌐 Frontend Dashboard
+
+A simple, modern web interface for interacting with the API.
+
+**Features:**
+- 📊 Real-time task statistics
+- ✅ Create, complete, and delete tasks
+- 🔍 Filter tasks by status and priority
+- 📱 Responsive design
+- 🎨 Clean, professional UI
+
+**Tech Stack:** HTML5, CSS3, Vanilla JavaScript
+
+**Quick Start:**
+```bash
+# Open frontend in browser
+cd frontend
+python3 -m http.server 3000
+
+# Visit: http://localhost:3000
+```
+
+**Login with:**
+- Create your own account via registration
+- Or use API to seed demo data
+
 - **User Authentication**
   - Secure registration with password hashing (bcrypt)
   - JWT-based authentication
@@ -54,16 +80,31 @@ Try it out:
   - Docker containerization
   - Health check endpoint
 
-## 🛠️ Tech Stack
+## 🌐 Frontend Dashboard
 
-| Technology | Purpose |
-|------------|---------|
-| **Go 1.24** | Backend programming language |
-| **Gin** | HTTP web framework |
-| **PostgreSQL 15** | Relational database |
-| **JWT** | Authentication tokens |
-| **Docker** | Containerization |
-| **bcrypt** | Password hashing |
+A simple, modern web interface for interacting with the API.
+
+**Features:**
+- 📊 Real-time task statistics
+- ✅ Create, complete, and delete tasks
+- 🔍 Filter tasks by status and priority
+- 📱 Responsive design
+- 🎨 Clean, professional UI
+
+**Tech Stack:** HTML5, CSS3, Vanilla JavaScript
+
+**Quick Start:**
+```bash
+# Open frontend in browser
+cd frontend
+python3 -m http.server 3000
+
+# Visit: http://localhost:3000
+```
+
+**Login with:**
+- Create your own account via registration
+- Or use API to seed demo data
 
 ## 🏗️ Architecture
 ```
