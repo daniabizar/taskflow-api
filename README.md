@@ -1,6 +1,13 @@
 # 🚀 TaskFlow API
 
-> A production-ready RESTful API for task management built with Go, designed for the GoTo Engineering Bootcamp 2026 application.
+> A production-ready RESTful API for task management built with Go
+> ## 🌐 Live Demo
+
+**API Base URL:** https://taskflow-api.railway.app
+
+Try it out:
+- Health Check: https://taskflow-api.railway.app/health
+- API Docs: See below
 
 [![Go Version](https://img.shields.io/badge/Go-1.24+-00ADD8?style=flat&logo=go)](https://go.dev/)
 [![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?style=flat&logo=docker)](https://www.docker.com/)
