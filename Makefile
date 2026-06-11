@@ -31,22 +31,3 @@ clean:
 
 test:
 	go test -v ./...
-```
-
-**SAVE file ini!**
-
----
-
-### **STEP 11.4: Update .gitignore**
-
-Tambahkan beberapa file Docker yang tidak perlu di-commit.
-
-**Di VS Code:**
-1. Buka file `.gitignore` yang sudah ada
-2. Tambahkan di akhir file:
-```
-# Docker
-*.log
-
-# Binary
-main
